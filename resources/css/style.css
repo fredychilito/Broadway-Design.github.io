@@ -1,0 +1,75 @@
+body {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/selga.png");
+}
+
+h1 {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+h2 {
+  color: DarkGreen;
+}
+
+p, h3 {
+  font-family: Helvetica;
+}
+
+h1, h2 {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+  }
+
+.bruches{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: green;
+}
+
+.price {
+    color: Blue;
+    font-weight: bold;
+}
+
+.frames{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: LightCoral;
+}
+
+.paint{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: SkyBlue;
+}
+/* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  color: SeaGreen;
+}
+
+
+p,
+li {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}*/
